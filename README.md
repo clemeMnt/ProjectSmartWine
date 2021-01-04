@@ -21,4 +21,4 @@ une bouteille dans notre cave à vin, en appuyant sur un simple bouton depuis l'
 est présente sur l'emplacement. [File Cave à Vin](../DashboardSmartWine)
 
 
-![alt text](https://github.com/clemeMnt/ProjectSmartWine/blob/main/Images/SmartWine/LOGO-NOIR-PNG.png "Logo SmartWine")
+![alt text width="200" height="200"](https://github.com/clemeMnt/ProjectSmartWine/blob/main/Images/SmartWine/LOGO-NOIR-PNG.png "Logo SmartWine")
