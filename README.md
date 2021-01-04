@@ -1,5 +1,5 @@
 # ProjectSmartWine
-SmartWine, un projet de cave à vin connectée 
+By Pierre BOSSARD, Henri CREN, Martin RAIMBAULT, Clément MARCHAIS.
 
 ## Présentation
 
@@ -14,10 +14,11 @@ de notre cave à vin et la possiblité de repertorier une bouteille depuis l'app
 une bouteille dans notre cave à vin, en appyuant sur un simple bouton depuis l'application. 
 
 * Le Bashboard : Un site Web qui permet d'obtenir un accès à la temperature et l'hygrométrie de la cave à n'importe qu'elle moment.
+[File Dashboard](..tree/main/DashboardSmartWine)
 
 * La cave à vin : Cave à vin de six bouteille, qui relève les données à chaque instant et affiche à l'aide de LED si une bouteille
 est présente sur l'emplacement. 
 
 
 
-By Pierre BOSSARD, Henri CREN, Martin RAIMBAULT, Clément MARCHAIS.
+
