@@ -17,5 +17,6 @@ mot de passe : cavetest
 
 ### Lien d'hébergement 
 ```
-[Dashboard](https://smartwine-bfce1.web.app/)
+See [Dashboard](https://smartwine-bfce1.web.app/).
+
 ```
