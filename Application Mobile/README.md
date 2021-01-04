@@ -10,8 +10,8 @@ données (température, humidité), d'avoir un suivi des bouteilles contenue dan
 
 ## Firebase 
 ```
-L'application est reliée au service d'hébergement Firebase (proposé par Google), et permet de gérer les comptes utilisateurs avec le 
-service Authentification ou bien stocker nos données sur le service Firestore. C'est un service complet qui permet de simplifier 
+L'application est reliée au service d'hébergement Firebase (proposé par Google), et permet de gérer les comptes utilisateurs avec 
+le service Authentification ou bien stocker nos données sur le service Firestore. C'est un service complet qui permet de simplifier 
 de nombreuses fonctionnalités et répond facilement au besoin du projet en termes de stockage de donnée. 
 ```
 
