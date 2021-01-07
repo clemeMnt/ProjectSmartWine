@@ -16,4 +16,4 @@ de simplifier de nombreuses fonctionnalités et répond facilement au besoin du 
 ```
 
 ## Images
-![alt text](https://github.com/clemeMnt/ProjectSmartWine/blob/main/Images/Application%20mobile/smartwine_pict.png "Application Mobile et Dashboard")
+![alt text](https://github.com/clemeMnt/ProjectSmartWine/blob/main/Images/Application%20mobile/smartwine_pict.jpg "Application Mobile et Dashboard")
